@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 I'm Aleksandar, a full-stack developer building scalable web solutions
 
